@@ -76,3 +76,4 @@ Plugins/**/Intermediate/*
 **/Binaries/
 **/Content/StarterContent/
 **/DerivedDataCache
+**/Build
